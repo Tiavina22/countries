@@ -1,0 +1,32 @@
+[
+    {
+        "country": "Canada",
+        "code": "+1",
+        "capital": "Ottawa"
+    },
+    {
+        "country": "United Kingdom",
+        "code": "+44",
+        "capital": "London"
+    },
+    {
+        "country": "United States",
+        "code": "+1",
+        "capital": "Washington, D.C."
+    },
+    {
+        "country": "Afghanistan",
+        "code": "+93",
+        "capital": "Kabul"
+    },
+    {
+        "country": "Albania",
+        "code": "+355",
+        "capital": ""
+    },
+    {
+        "country": "Algeria",
+        "code": "+213",
+        "capital": "Lisbon"
+    }
+]
